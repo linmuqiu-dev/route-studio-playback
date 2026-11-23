@@ -8,10 +8,10 @@
 
 | 需要做什么 | 应下载的文件 |
 | --- | --- |
-| 在地图上画路线、设置圈数或分段速度、预览并导出 GPX | `RouteStudio-1.3.0-Windows-x64-Setup.exe` |
-| 载入 GPX、设置起点，并以选定的匀速在 MuMu 中回放 | `RoutePlayback-1.3.0-Windows-x64-Setup.exe` |
+| 在地图上画路线、设置圈数或分段速度、预览并导出 GPX | `RouteStudio-1.3.0-Windows-x64.msi` |
+| 载入 GPX、设置起点，并以选定的匀速在 MuMu 中回放 | `RoutePlayback-1.3.0-Windows-x64.msi` |
 
-安装后从 Windows 开始菜单打开“路线工坊（发布版）”或“路线回放器（发布版）”。两款软件均已内置 Node.js，可单独安装。回放需要另行安装并启动 MuMu 模拟器。
+双击下载的 `.msi` 安装。安装后从 Windows 开始菜单打开“路线工坊（发布版）”或“路线回放器（发布版）”。两款软件均已内置 Node.js，可单独安装。回放需要另行安装并启动 MuMu 模拟器。
 
 ## 第一次使用
 
